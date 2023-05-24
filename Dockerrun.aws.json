@@ -4,7 +4,7 @@
 
     {
       "name": "joshfullstack",
-      "image": "katsunchan/spring-boot-example:latest",
+      "image": "katsunchan/spring-boot-example:24.05.2023.02.31.19",
       "essential": true,
       "memory": 512,
       "portMappings": [
